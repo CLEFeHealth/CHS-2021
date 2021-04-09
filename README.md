@@ -26,9 +26,11 @@ The topics this year are all based on realistic search scenarios. Two sets of to
 - one topic set is based on use cases from discussion forums. The queries are extracted and manually selected from Google trends to best fit each use case
 
 ## Structure
-\documents: scripts to crawls. 
-	\webdoc: CommonCrawl Crawler
-	\social-media: Reddit and Twitter Crawler
-\tools: extra scripts
-\topics: topics sets 
+  .
+    ├── documents               # Scripts to crawls
+    │   ├── webdoc              # CommonCrawl Crawler
+    │   └── social-media        # Reddit and Twitter Crawler
+    ├── tools                   # Extra scripts 
+    └── topics                  # Topics sets
+
 
