@@ -26,7 +26,7 @@ Participants have access to 2 separate crawls of documents: web documents and so
 In Reddit, users upload posts in the form of the so-called submissions, which are sort of “questions” to which other users can reply. Users reply to submissions with one or more comments. 
 
 The documents that are generated for Reddit consist of the submission (plus the connected metadata) and one comment (and connected metadata) combined in one file.
-- Crawler code 
+
 ### Twitter 
 
 Tweets are crawled using [Tweepy](https://www.tweepy.org/) and twitter APIs. The description of the tweet data is mentioned on the following [website](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/tweet). 
