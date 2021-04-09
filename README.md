@@ -33,4 +33,12 @@ The topics this year are all based on realistic search scenarios. Two sets of to
     ├── tools                   # Extra scripts 
     └── topics                  # Topics sets
 
+## Useful links
+Registration: http://clef2021-labs-registration.dei.unipd.it/
+eHealth further information: https://clefehealth.imag.fr/ 
+CLEF 2021 further information: http://clef2021.clef-initiative.eu/
+Discord: https://discord.gg/3jjSUSf584
+Email contact: clefehealth-irtask@univ-grenoble-alpes.fr
+
+
 
