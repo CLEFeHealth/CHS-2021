@@ -6,5 +6,5 @@
     ├── CLEF_IDs                  # Document IDs
     |    ├── reddit_150           # Reddit Ids
     |    └── tweets_150           # Twitter Ids
-    ├── social-media              # Reddit and Twitter Crawler
+    ├── code                      # Reddit and Twitter Crawler
     └── README.md
