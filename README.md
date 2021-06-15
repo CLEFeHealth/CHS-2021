@@ -35,7 +35,8 @@ You can find an the indexed collection in the [Dropbox Link](https://www.dropbox
     │   ├── webdoc              # CommonCrawl Crawler
     │   └── social-media        # Reddit and Twitter Crawler
     ├── tools                   # Extra scripts 
-    ├── runs                    # Baselines  
+    ├── runs                    # Baselines
+    ├── assessments             # Assessment of relevance, readability and credibility.  
     └── topics                  # Topics sets
 
 ## Useful links
